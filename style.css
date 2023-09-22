@@ -1,0 +1,12 @@
+.game-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.clicker {
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+  border-radius: 50%;
+}
+
